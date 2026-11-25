@@ -8,7 +8,7 @@ An educational reference to search operators, public indexing risks and defensiv
 
 The source page, [Google-Dorks.com — Dorks List](https://google-dorks.com/list/), states that it contains 200 patterns across ten categories. This repository reorganises the ten category themes into a priority order based on defensive impact and adds clearer, more descriptive category names.
 
-**Important:** This is not a verbatim reproduction of the source's 200 query strings. The original query strings are not copied here. Instead, this edition uses newly written, low-risk examples that focus on intentionally public content, alongside explanations and remediation guidance. Refer to the source page for its original entries.
+**Important:** Here Instead, this edition uses newly written, low-risk examples that focus on intentionally public content, alongside explanations and remediation guidance. Refer to the source page for its original entries.
 
 ## Priority ranking
 
@@ -26,14 +26,6 @@ The source page, [Google-Dorks.com — Dorks List](https://google-dorks.com/list
 | 10 | Public Records, Privacy & Data Minimisation | Public records |
 
 The rank is a defensive-learning priority, not a statement that the source website ranks its categories this way.
-
-## Repository files
-
-- `GOOGLE_DORKS_CATALOG.md` — all ten categories, serially numbered safe examples, explanations and remediation notes.
-- `CATEGORY_MAP.md` — original category names mapped to the extended names and new priority order.
-- `SAFE_USAGE.md` — authorised-use and safe-handling guidance.
-- `SOURCES.md` — source attribution and further reading.
-- `.gitignore` — excludes common local secrets, logs, exports and temporary files.
 
 ## How to use
 
